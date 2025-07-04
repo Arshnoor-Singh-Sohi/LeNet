@@ -45,22 +45,6 @@ This project covers the foundational concepts of deep learning and computer visi
 - **Computational Efficiency** through local processing
 - **Structural Priors** for visual data
 
-## 📂 Repository Structure
-
-```
-LeNet-5-Implementation/
-│
-├── Lenet.ipynb                      # Complete implementation and theory
-├── README.md                        # This comprehensive guide
-├── models/
-│   └── lenet5_model.h5             # Trained model (generated after training)
-├── analysis/
-│   ├── layer_analysis.py           # Parameter calculation utilities
-│   ├── feature_visualization.py    # Feature map visualization
-│   └── architecture_diagrams/      # Network structure diagrams
-└── requirements.txt                 # Dependencies
-```
-
 ## 🚀 How to Run
 
 ### Prerequisites
